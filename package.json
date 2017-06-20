@@ -1,0 +1,25 @@
+{
+  "name": "learnnextjs",
+  "version": "1.0.0",
+  "description": "learn in action for next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/learnnextjs.git"
+  },
+  "keywords": [],
+  "author": "postor@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/learnnextjs/issues"
+  },
+  "homepage": "https://github.com/postor/learnnextjs#readme",
+  "dependencies": {
+    "fs-extra": "^3.0.1",
+    "jquery": "^3.2.1",
+    "showdown": "^1.7.1"
+  }
+}
